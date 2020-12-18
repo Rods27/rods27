@@ -8,7 +8,7 @@
 #### Bem Vindo ao meu perfil 
 Meu nome é Rodrigo sou estudante de Desenvolvimento de Software. 
 
- - 🖥️ Skills: Unix-Shell, HTML, CSS, Javascript, Node.js.
+ - 🖥️ Skills: Unix-Shell, HTML, CSS, Javascript, Node.js, React & Redux.
  - 😍 Apaixonado por Mercado financeiro e Desenvolvimento de Software.
  - 🎮 Gosto de jogar games e desenvolver projetos pessoais no meu tempo livre.
  - 📘 Atualmente estudando para ser Desenvolvedor Full-Stack.
