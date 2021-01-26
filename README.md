@@ -3,7 +3,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rods27)](https://github.com/Rods27)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoleite27/)](https://www.linkedin.com/in/rodrigoleite27/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rods.leite27@gmail.com)](mailto:rods.leite27@gmail.com)
-<img href="https://www.linkedin.com/in/rodrigoleite27/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
+<a href="https://www.linkedin.com/in/rodrigoleite27/" target="_blank" >
+<img src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
+ </a>
 
 ### Olá! 👋
 #### Bem Vindo ao meu perfil 
