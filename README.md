@@ -8,7 +8,39 @@
 #### Bem Vindo ao meu perfil 
 Meu nome é Rodrigo sou estudante de Desenvolvimento de Software. 
 
- - 🖥️ Skills: Unix-Shell, HTML, CSS, Javascript, Node.js, React & Redux.
+ - 🖥️ Skills: <img src="./img/github.svg" width="30" height="30" style="margin: 50px" /> 
+      <img src="./img/git.png" width="30" height="30" style="margin: 10px" />
+      <img src="./img/css.svg" width="30" height="30" style="margin: 10px" />
+      <img src="./img/javascript.svg" width="30" height="30" style="margin: 10px" />
+      <img src="./img/jest.png" width="30" height="30" style="margin: 10px" />
+      <img src="./img/react.svg" width="30" height="30" style="margin: 10px" />
+      <img src="./img/rtl.png" width="30" height="30" style="margin: 10px" />
+      <img src="./img/redux.png" width="30" height="30" style="margin: 10px" />
+      <img src="./img/sql.svg" width="30" height="30" style="margin: 10px" />
+      <img src="./img/mysql.svg" width="30" height="30" style="margin: 10px" />
  - 😍 Apaixonado por Mercado financeiro e Desenvolvimento de Software.
  - 🎮 Gosto de jogar games e desenvolver projetos pessoais no meu tempo livre.
  - 📘 Atualmente estudando para ser Desenvolvedor Full-Stack.
+ 
+ 
+##### MAIN SKILLS
+
+<div>
+
+&nbsp;&nbsp;&nbsp;
+<img src="./img/html.svg" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/javascript.svg" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/jest.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/react.svg" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/rtl.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/redux.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/sql.svg" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/mysql.svg" width="40" height="40" style="margin: 10px"/>
+</div>
