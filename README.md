@@ -3,8 +3,8 @@
  <a href="https://www.linkedin.com/in/rodrigoleite27/" target="_blank" >
   <img src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
  </a>
- <a href="mailto:rods.leite27@gmail.com" target="_blank" align="bottom">
-  <img src="./img/gmail.png" width="60" height="50" style="margin: 50px"/>
+ <a href="mailto:rods.leite27@gmail.com" target="_blank" >
+  <img src="./img/gmail.png" width="60" height="50" />
  </a>
 
 
