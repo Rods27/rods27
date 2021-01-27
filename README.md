@@ -8,8 +8,8 @@
  </a>
 
 
-### Olá! 👋
-#### Bem Vindo ao meu perfil 
+## Olá! 👋
+### Bem Vindo ao meu perfil 
 Meu nome é Rodrigo sou estudante de Desenvolvimento de Software pela Trybe. 
 
 :dart: ***Aberto para oportunidades full-time ou part-time.***
@@ -17,9 +17,10 @@ Meu nome é Rodrigo sou estudante de Desenvolvimento de Software pela Trybe.
  - 😍 Apaixonado por Mercado financeiro e Desenvolvimento de Software.
  - 🎮 Gosto de jogar games e desenvolver projetos pessoais no meu tempo livre.
  - 📘 Atualmente estudando para ser Desenvolvedor Full-Stack. 
-  - :rocket: **Objetivo atual**: me formar como desenvolvedor Full-Stack!
+
+#### :rocket: **Objetivo atual**: me formar como desenvolvedor Full-Stack e praticar minhas skills através de projetos e
  
-#### Hard-Skills
+### Hard-Skills
 
 <div>
 &nbsp;&nbsp;&nbsp;
