@@ -19,7 +19,7 @@ Meu nome é Rodrigo sou estudante de Desenvolvimento de Software pela Trybe.
  - 📘 Atualmente estudando para ser Desenvolvedor Full-Stack. 
 
 ### :rocket: **Objetivo atual**
-#### Me formar como desenvolvedor Full-Stack e consolidar minhas skills através de projetos e trabalhos.
+#### Me formar como Desenvolvedor Web Full-Stack e consolidar minhas skills através de projetos e trabalhos.
  
 ### Hard-Skills
 
