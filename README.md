@@ -19,10 +19,9 @@ Aberto para oportunidades full-time ou part-time.
  - 📘 Atualmente estudando para ser Desenvolvedor Full-Stack. 
   - :rocket: Objetivo atual, me formar como desenvolvedor Full-Stack!
  
-##### Hard-Skills
+#### Hard-Skills
 
 <div>
-
 &nbsp;&nbsp;&nbsp;
 <img src="./img/html.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
