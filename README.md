@@ -12,7 +12,7 @@
 #### Bem Vindo ao meu perfil 
 Meu nome é Rodrigo sou estudante de Desenvolvimento de Software pela Trybe. 
 
-:dart: Aberto para oportunidades full-time ou part-time.
+:dart: **Aberto para oportunidades full-time ou part-time.**
 
  - 😍 Apaixonado por Mercado financeiro e Desenvolvimento de Software.
  - 🎮 Gosto de jogar games e desenvolver projetos pessoais no meu tempo livre.
