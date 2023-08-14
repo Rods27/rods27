@@ -8,18 +8,14 @@
  </a>
 
 
-### Olá! 👋
-### Bem Vindo ao meu perfil 
-Meu nome é Rodrigo sou estudante de Desenvolvimento de Software pela Trybe. 
-
-:dart: ***Aberto para oportunidades full-time ou part-time.***
+### Hi! 👋
+### Welcome to my profile!
+My name is Rodirog, and im a Front end Developer.
+I do not have much time to upload codes here, because of work, but im focused on that.
 
  - 😍 Apaixonado por Mercado financeiro e Desenvolvimento de Software.
- - 🎮 Gosto de jogar games e desenvolver projetos pessoais no meu tempo livre.
- - 📘 Atualmente estudando para ser Desenvolvedor Full-Stack. 
-
-### :rocket: **Objetivo atual**
-#### Me formar como Desenvolvedor Web Full-Stack e consolidar minhas skills através de projetos e trabalhos.
+ - 🎮 Like to play games and develop personal projects on my free time.
+ - 📘 Actually working and studying full time!
  
 ### Hard-Skills
 
