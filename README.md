@@ -13,7 +13,7 @@
 My name is Rodirog, and im a Front end Developer.
 I do not have much time to upload codes here, because of work, but im focused on that.
 
- - 😍 Apaixonado por Mercado financeiro e Desenvolvimento de Software.
+ - 😍 Passionate with stock market and development.
  - 🎮 Like to play games and develop personal projects on my free time.
  - 📘 Actually working and studying full time!
  
