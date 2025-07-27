@@ -1,10 +1,10 @@
 # Rodrigo Leite 👩‍💻
 
-<div>
+<div style="display: flex; align-items: center">
   <a href="https://www.linkedin.com/in/rodrigoleite27/" target="_blank" >
    <img src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
   </a>
-  <a class="test" href="mailto:rods.leite27@gmail.com" target="_blank" >
+  <a class="green" href="mailto:rods.leite27@gmail.com" target="_blank" >
    <img src="./img/gmail.png" width="60" height="50" />
 </div>
 
