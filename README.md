@@ -17,6 +17,8 @@ Some projects are courses that i use to learn new technologies, and some are old
 
 Now im focused on my actual work, and learn new tecnologies
 
+My portfolio: https://rl27-portfolio.netlify.app/
+
 ### Languages and Tools
 <div>
  <img src="./img/png/html.png" width="40" height="40" style="margin: 10px" />
